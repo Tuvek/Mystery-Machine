@@ -1,0 +1,12 @@
+c:\users\dcunl\Documents\Visual Studio 2013\Projects\MysteryGenerator\MysteryGenerator\bin\Debug\MysteryGenerator.exe.config
+c:\users\dcunl\Documents\Visual Studio 2013\Projects\MysteryGenerator\MysteryGenerator\bin\Debug\MysteryGenerator.exe
+c:\users\dcunl\Documents\Visual Studio 2013\Projects\MysteryGenerator\MysteryGenerator\bin\Debug\MysteryGenerator.pdb
+c:\users\dcunl\Documents\Visual Studio 2013\Projects\MysteryGenerator\MysteryGenerator\obj\Debug\MysteryGenerator.csprojResolveAssemblyReference.cache
+c:\users\dcunl\Documents\Visual Studio 2013\Projects\MysteryGenerator\MysteryGenerator\obj\Debug\MysteryGenerator.Form1.resources
+c:\users\dcunl\Documents\Visual Studio 2013\Projects\MysteryGenerator\MysteryGenerator\obj\Debug\MysteryGenerator.Properties.Resources.resources
+c:\users\dcunl\Documents\Visual Studio 2013\Projects\MysteryGenerator\MysteryGenerator\obj\Debug\MysteryGenerator.csproj.GenerateResource.Cache
+c:\users\dcunl\Documents\Visual Studio 2013\Projects\MysteryGenerator\MysteryGenerator\obj\Debug\MysteryGenerator.exe
+c:\users\dcunl\Documents\Visual Studio 2013\Projects\MysteryGenerator\MysteryGenerator\obj\Debug\MysteryGenerator.pdb
+c:\users\dcunl\Documents\Visual Studio 2013\Projects\MysteryGenerator\MysteryGenerator\bin\Debug\data\locations.txt
+c:\users\dcunl\Documents\Visual Studio 2013\Projects\MysteryGenerator\MysteryGenerator\bin\Debug\data\monsters.txt
+c:\users\dcunl\Documents\Visual Studio 2013\Projects\MysteryGenerator\MysteryGenerator\bin\Debug\data\types.txt
